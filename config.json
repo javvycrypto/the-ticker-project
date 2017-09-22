@@ -1,4 +1,4 @@
 {
-  "httpProviderRopsten":"https://ropsten.infura.io/CWWAsMySNoBp0s18fWju",
-  "httpProviderMainet":"https://mainnet.infura.io/CWWAsMySNoBp0s18fWju"
+  "httpProviderRopsten":"https://ropsten.infura.io/your_key_here",
+  "httpProviderMainet":"https://mainnet.infura.io/your_key_here"
 }
