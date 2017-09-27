@@ -1,7 +1,7 @@
 # the-ticker-project
 The current serving endpoint is <code>your_server.com:8080/crowdsale/:contractAddress</code>
-Example:
-<code>http://127.0.0.1:8080/crowdsale/0xf73f86418fdbF00E40639858752d93572F6F049D</code>
+
+Example: <code>http://127.0.0.1:8080/crowdsale/0xf73f86418fdbF00E40639858752d93572F6F049D</code>
 
 By default it operates on mainnet, to switch to ropsten pass the following argument in the API request:
 
