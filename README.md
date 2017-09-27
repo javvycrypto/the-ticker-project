@@ -12,6 +12,6 @@ By default it operates on mainnet, to switch to ropsten pass the following argum
 1. Clone the project
 2. Run <code>npm install</code>
 3. Create an account on <a href="https://infura.io/">Infura</a>
-4. Pate parameters you get from infura in config.json
+4. Place parameters you get from infura in config.json
 5. Run <code>node tickerServer.js</code>
 6. Send API requests
