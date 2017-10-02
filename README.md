@@ -1,4 +1,8 @@
 # the-ticker-project
+Purpose: Provides a way to securely display updated smart contract metrics embedded within a web page*
+
+*Please note that this code is provided in order to build trust with the community for the Javvy ICO. However, it is not provided with any license and may not be used (on request of the code authors). Thank you for your understanding.
+
 The current serving endpoint is <code>your_server.com:8080/crowdsale/:contractAddress</code>
 
 Example: <code>http://127.0.0.1:8080/crowdsale/0xf73f86418fdbF00E40639858752d93572F6F049D</code>
